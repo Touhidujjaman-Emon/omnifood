@@ -1,3 +1,3 @@
-# omnifood
+# Omnifood Tailwind CSS remake
 live : https://touhidujjaman-emon.github.io/omnifood/
-omnifood tailwind version
+
